@@ -1,0 +1,15 @@
+# Ignorar configuración de PyCharm
+.idea/
+*.iml
+
+# Ignorar entornos virtuales
+.venv/
+venv/
+
+# Archivos temporales y compilados
+__pycache__/
+*.py[cod]
+*.log
+*.swp
+*.swo
+.DS_Store
