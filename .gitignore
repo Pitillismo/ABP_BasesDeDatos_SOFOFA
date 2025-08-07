@@ -1,10 +1,10 @@
 # Ignorar configuración de PyCharm
-.idea/
 *.iml
 
 # Ignorar entornos virtuales
 .venv/
 venv/
+.env
 
 # Archivos temporales y compilados
 __pycache__/
@@ -14,4 +14,21 @@ __pycache__/
 *.swo
 .DS_Storep
 
-.env
+# Python
+*.egg-info/
+*.env
+*.sqlite3
+
+# Anaconda/Virtualenv
+env_*/
+env*/
+
+# Archivos temporales
+*.bak
+*.tmp
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
