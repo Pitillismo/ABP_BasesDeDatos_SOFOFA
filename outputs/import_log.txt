@@ -1,0 +1,49 @@
+
+[2025-08-06 23:45:51] Iniciando importación a clientes_ext
+✅ Importación completada. Total registros actuales en clientes_ext: 98
+
+[2025-08-06 23:46:56] Iniciando importación a clientes_ext
+❌ Error en la importación: tuple index out of range - 2025-08-06 23:46:57
+
+[2025-08-06 23:48:29] Iniciando importación a clientes_ext
+❌ Error en la importación: tuple index out of range - 2025-08-06 23:48:29
+
+[2025-08-06 23:50:19] Iniciando importación a clientes_ext
+❌ Error en la importación: tuple index out of range - 2025-08-06 23:50:19
+
+[2025-08-06 23:50:43] Iniciando importación a clientes_ext
+✅ Importación completada. Total registros: 98
+
+
+[2025-08-07 00:10:59] Inicio de ejecución
+🧹 Todas las tablas limpiadas y reiniciadas (modo prueba completa).
+✅ Importación completada. Total registros desde CSV: 98
+
+[2025-08-07 00:11:20] Inicio de ejecución
+🧹 Todas las tablas limpiadas y reiniciadas (modo prueba completa).
+✅ Importación completada. Total registros desde CSV: 98
+
+[2025-08-07 00:11:38] Inicio de ejecución
+ℹ️ Modo continuación: no se eliminó ninguna tabla.
+✅ Importación completada. Total registros desde CSV: 98
+
+[2025-08-07 00:11:49] Inicio de ejecución
+🧹 Todas las tablas limpiadas y reiniciadas (modo prueba completa).
+✅ Importación completada. Total registros desde CSV: 98
+
+[2025-08-07 00:13:45] Inicio de ejecución
+🧹 Base de datos reiniciada (modo prueba completa).
+
+[2025-08-07 00:14:03] Inicio de ejecución
+🧹 Base de datos reiniciada (modo prueba completa).
+
+[2025-08-07 00:15:30] Inicio de ejecución
+
+[2025-08-07 00:18:30] Inicio de ejecución
+✅ Importación completada. Total registros importados: 98
+
+[2025-08-07 00:20:55] Inicio de ejecución
+🧹 Base de datos reiniciada (modo prueba completa).
+
+[2025-08-07 00:21:14] Inicio de ejecución
+✅ Importación completada. Total registros importados: 98
